@@ -2,15 +2,14 @@
 
 Welcome to the Pig Game! Experience the thrill of the dice!
 
-### Play the Game 🎮:
-
+## Play the Game 🎮:
 You can play this dice-rolling game [here](https://nittaany.github.io/piggyDice/)!
 
 ### The Game is optimized for larger screen devices and desktops.
 
 ![Game Preview](https://drive.google.com/uc?export=view&id=18znDqhk7I-VCr_7E-U6W0EDpqNz5GDyy)
 
-### How to Play 🎯:
+## How to Play 🎯:
 
 The Game is a two-player dice game aiming to reach 100 points to win.
 It's best experienced on devices with larger displays.
@@ -31,7 +30,7 @@ It's best experienced on devices with larger displays.
 
 **Enjoy the thrill of the dice and strategic decisions in the Pig Game!**
 
-### Technologies Used 🛠️:
+## Technologies Used 🛠️:
 
 - HTML
 - CSS
