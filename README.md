@@ -8,8 +8,7 @@ You can play this dice-rolling game [here](https://nittaany.github.io/piggyDice/
 
 ### The Game is optimized for larger screen devices and desktops.
 
-![Game Preview](GAME_PREVIEW_IMAGE_URL)
-![Project Image](https://drive.google.com/uc?export=view&id=18znDqhk7I-VCr_7E-U6W0EDpqNz5GDyy)
+![Game Preview](https://drive.google.com/uc?export=view&id=18znDqhk7I-VCr_7E-U6W0EDpqNz5GDyy)
 
 ### How to Play 🎯:
 
