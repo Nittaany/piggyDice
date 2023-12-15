@@ -82,7 +82,7 @@ holdbtn.addEventListener("click", function (){
         document.getElementById(`current--${activeplayer}`).textContent=0;
         console.log(Number(document.getElementById(`score--${activeplayer}`).innerHTML)+ Number(document.getElementById(`current--${activeplayer}`).innerHTML))
         
-        if( totalscore[activeplayer]>=20){
+        if( totalscore[activeplayer]>=100){
             playing = false;
             diceimg.hidden=true;
             document.querySelector(`.player--${activeplayer}`).classList.add("player--winner")
